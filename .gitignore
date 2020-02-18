@@ -1,0 +1,12 @@
+# ignore all
+*
+
+# allow any
+!*/
+!*.cpp
+!*.hpp
+!*.py
+!*.md
+!.gitignore
+!makefile
+!dockerfile
